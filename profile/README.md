@@ -1,6 +1,6 @@
-# Collaborative Robotics and AI - University of Coimbra
+# Robotics and AI - University of Coimbra
 
-CRIS / CRAI is a research laboratory from the University of Coimbra, which is part of the CEMMPRE (Center for Mechanical Engineering, Materials and Processes) R&D unit. 
+RAI is a research laboratory from the University of Coimbra, which is part of the CEMMPRE (Center for Mechanical Engineering, Materials and Processes) R&D unit. 
 Therefore, it is also a member of the associated laboratory ARISE - Advanced Production and Intelligent Systems.
 
 It conducts interdisciplinary research within various thematic lines, encompassing both fundamental and applied research. The key thematic lines are the following:
