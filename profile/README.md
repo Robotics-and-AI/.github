@@ -16,7 +16,7 @@ wearables, sensor fusion, among others.
 It has also focused in advanced industrial robot applications related with object classification from RGB-B, CAD-based robotics, off-line programming, hybrid force/motion control and robotic friction stir welding.
 
 <p>
-  <img src="images/uc_logo.png" height="130" alt="university of coimbra logo" align="center">
-  <img src="images/cemmpre_logo.png" height="130" alt="cemmpre logo" align="center">
-  <img src="images/arise_logo.png" height="80" alt="arise logo" align="center">
+  <img src="../images/uc_logo.png" height="130" alt="university of coimbra logo" align="center">
+  <img src="../images/cemmpre_logo.png" height="130" alt="cemmpre logo" align="center">
+  <img src="../images/arise_logo.png" height="80" alt="arise logo" align="center">
 </p>
