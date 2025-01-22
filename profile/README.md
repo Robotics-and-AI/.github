@@ -13,7 +13,7 @@ It conducts interdisciplinary research within various thematic lines, encompassi
 
 The laboratory has been involved in research for collaborative robotics in industry, namely human-robot interaction, gesture recognition, robot task managing, collision avoidance, robot dynamics, physical interaction, 
 wearables, sensor fusion, among others. 
-It has also focused in advanced industrial robot applications related with object classification from RGB-B, CAD-based robotics, off-line programming, hybrid force/motion control and robotic friction stir welding.
+It has also focused in advanced industrial robot applications related with object classification from RGB-D, CAD-based robotics, off-line programming, hybrid force/motion control and robotic friction stir welding.
 
 <p>
   <img src="../images/uc_logo.png" height="130" alt="university of coimbra logo" align="center">
